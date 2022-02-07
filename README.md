@@ -1,5 +1,6 @@
-# About the Korean alphabet(Hangeul) in unicode
+# About the Korean alphabet(Hangeul) 
 
+## In Kotlin(JAVA) <img align='right' src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="147" height="147"> <img align='right' src="https://upload.wikimedia.org/wikipedia/commons/0/09/New_Unicode_logo.svg" width="150" height="150"> 
 한글 표현 방법은 크게 조합형과 완성형으로 나눌 수 있다.   
 이를 좀 더 세분화하면 N바이트 조합형, 3바이트 조합형, 7비트 완성형, 2바이트 조합형, 2바이트 완성형으로 나눌 수 있다.   
 
