@@ -26,6 +26,11 @@ word = word -  U+AC00
 중성: word % (21 x 28) / 28   
 종성: word % 28   
 
+<br><br>
+
+## In C++ <img align='right' src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="150" height="150">   
+본문   
+
 <br><br><br>
 
 ---
