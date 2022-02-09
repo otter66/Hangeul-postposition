@@ -29,7 +29,7 @@ word = word -  U+AC00
 <br><br>
 
 ## In C++ <img align='right' src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="150" height="150">   
-본문   
+(추가 예정)   
 
 <br><br><br>
 
@@ -39,5 +39,5 @@ word = word -  U+AC00
 네이버 D2 : 한글 인코딩의 이해 2편 [(링크)](https://d2.naver.com/helloworld/76650)   
 앱개발자 테드박의 블로그 [(링크)](https://gun0912.tistory.com/65)   
 <br>
-이를 이용한 한글의 표준화 (초성, 중성, 종성 나누기): 한글 표준화 [링크]()
+이를 이용한 한글의 표준화 (초성, 중성, 종성 나누기): 한글 표준화 (추가 예정)
 
